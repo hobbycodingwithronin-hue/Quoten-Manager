@@ -65,10 +65,10 @@ pip install PySide6
 
 ### 4. Programm starten
 
-Wechsle im Terminal in den Ordner, in dem sich die Datei `betting_analyzer_pro.py` befindet, und starte das Programm mit:
+Wechsle im Terminal in den Ordner, in dem sich die Datei `Betting_Analyzer_Pro.py` befindet, und starte das Programm mit:
 
 ```bash
-python betting_analyzer_pro.py
+python Betting_Analyzer_Pro.py
 ```
 
 ## 🖥️ Programmoberfläche
