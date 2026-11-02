@@ -142,7 +142,7 @@ Du möchtest sehen, wie Betting Analyzer Pro funktioniert und wie das Programm v
 
 In meinem YouTube-Tutorial zeige ich dir die Anwendung und ihre verschiedenen Funktionen Schritt für Schritt.
 
-👉 **Zum YouTube-Tutorial:** [Hier klicken](DEIN-YOUTUBE-LINK)
+👉 **Zum YouTube-Tutorial:** https://youtu.be/rQLHzUfROGI
 
 ## 👨‍💻 Autor
 
